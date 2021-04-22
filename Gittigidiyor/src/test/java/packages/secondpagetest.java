@@ -25,7 +25,9 @@ public class secondpagetest{
 
 
             if (driver.getCurrentUrl().contains("sf=2")) {
-                System.out.println("2. Sayfaya Geçiş Başarılı!");
+                System.out.println("2. Sayfaya Geçiş Başarılı!");  
+                System.out.println("*********************************");
+                
 
             } else {
                 System.out.println("2. Sayfaya Geçiş Başarısız!");

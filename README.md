@@ -1,6 +1,4 @@
 
-This file contains Selenium Web Automation for Gittigidiyor.
-
 
 
 - Proje Java programlama dilinde yazılmalıdır.
